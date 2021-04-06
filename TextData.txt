@@ -1,0 +1,3 @@
+1	C:\Users\TJava07\Project\demo_data\ExampleHadoop\Input\example1.txt	
+2	C:\Users\TJava07\Project\demo_data\ExampleHadoop\Input\example2.txt	
+3	C:\Users\TJava07\Project\demo_data\ExampleHadoop\Input\output.txt	
